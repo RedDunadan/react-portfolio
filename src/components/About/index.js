@@ -20,7 +20,7 @@ const About = () => {
                 <h1>
                     <AnimatedLetters letterClass={letterClass} strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']} idx={15} />
                 </h1>
-                <p>lorem ipsum</p>
+                <p>Desarrollador Web Jr. con experiencia en proyectos prácticos de backend y frontend. He desarrollado una aplicación totalmente funcional que consume una API, permitiendo crear, actualizar y eliminar contenido mediante fetch. Cuento con bases sólidas en HTML, CSS, JavaScript y Node.js, así como experiencia trabajando en entornos Linux. Busco mi primer rol en desarrollo donde aportar mis conocimientos, aprender nuevas tecnologías y crecer junto al equipo.</p>
                 <p>mas lorem</p>
                 <p>blahblahblah</p>
             </div>
